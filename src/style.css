@@ -1,5 +1,8 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/020/101/original/sebastian-mittermeier-OrIWDgX1oLg-unsplash.jpg?1635561014");
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
 h1 {
   color: #878787;
@@ -33,6 +36,7 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
+  box-shadow: 0px 30px 50px rgba(0 0 0 / 80%);
 }
 .overview {
   margin-bottom: 20px;
