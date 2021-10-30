@@ -34,7 +34,7 @@ li:first-letter {
 }
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
+  border: 1px solid #878787;
   border-radius: 5px;
   box-shadow: 0px 30px 50px rgba(0 0 0 / 80%);
 }
